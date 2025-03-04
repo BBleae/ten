@@ -45,7 +45,7 @@ bun run build
 
 ## Project Structure
 
-```
+```plaintext
 ten/
 ├── public/           # Static assets
 ├── src/              # Source code
